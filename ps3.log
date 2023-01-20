@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2022.4.14)  20 JAN 2023 17:47
+This is LuaHBTeX, Version 1.15.0 (TeX Live 2022)  (format=lualatex 2022.4.14)  20 JAN 2023 19:08
  restricted system commands enabled.
 **ps3.tex
 (./ps3.tex
@@ -394,16 +394,21 @@ Overfull \hbox (5.0pt too wide) in paragraph at lines 58--60
 [] 
  []
 
-[3<./plots/q3v.png><./plots/q3y.png>] (./ps3.aux))
+<ss.png, id=29, 1432.35126pt x 409.53pt>
+File: ss.png Graphic file (type png)
+<use ss.png>
+Package luatex.def Info: ss.png  used on input line 71.
+(luatex.def)             Requested size: 450.43253pt x 128.7839pt.
+[3<./plots/q3v.png><./plots/q3y.png><./ss.png>] (./ps3.aux))
 
 Here is how much of LuaTeX's memory you used:
- 3454 strings out of 477785
+ 3464 strings out of 477785
  100000,383344 words of node,token memory allocated
  541 words of node memory still in use:
    8 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 12 attribute, 55 glue_spec
 , 12 attribute_list, 1 write nodes
-   avail lists: 2:177,3:65,4:5,5:60,6:14,7:549,8:51,9:180,10:4,11:10
- 23981 multiletter control sequences out of 65536+600000
+   avail lists: 2:333,3:76,4:5,5:86,6:14,7:780,8:51,9:386,10:4,11:19
+ 23987 multiletter control sequences out of 65536+600000
  46 fonts using 3136463 bytes
  60i,11n,64p,193b,217s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2022/texmf-dist/fonts/opentype/public/lm/lmroman8-regular.ot
@@ -411,13 +416,15 @@ f></usr/local/texlive/2022/texmf-dist/fonts/opentype/public/lm/lmroman12-bold.ot
 f></usr/local/texlive/2022/texmf-dist/fonts/opentype/public/lm/lmroman12-regular
 .otf></usr/local/texlive/2022/texmf-dist/fonts/opentype/public/lm/lmroman17-regu
 lar.otf></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi1
-2.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.p
-fb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><
-/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on ps3.pdf (3 pages, 73110 bytes).
+2.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.p
+fb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></us
+r/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/
+local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on ps3.pdf (3 pages, 3088074 bytes).
 
-PDF statistics: 74 PDF objects out of 1000 (max. 8388607)
- 39 compressed objects within 1 object stream
+PDF statistics: 84 PDF objects out of 1000 (max. 8388607)
+ 45 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  31 words of extra memory for PDF output out of 10000 (max. 100000000)
 
